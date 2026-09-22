@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KareemWebber22
-- I'm currently working as a Senior Industrial Automation Engineer.
-- My Ultimate goal is to become a Fullstack .NET Web Developer.
+- I'm currently working as a Head of Industrial Automation Department.
+- My Ultimate goal is to become a Full stack .NET Desktop & Web Applications Developer.
 - Currently a .NET back-end web development using C# and ASP.NET Core.
 - 🌱 I’m AWS certified as AWS Cloud Practitioner and AWS Solutions Architect – Associate.
 - 💞️ I’m looking to collaborate on building Web Apps and AWS architectures
